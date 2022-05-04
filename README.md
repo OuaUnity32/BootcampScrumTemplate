@@ -1,37 +1,40 @@
 # **Takım İsmi**
 
-Takım X
+Takım 32
 
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
+- Ekin Türkü Onatça: Product Owner
+- Ali Sincar: Scrum Master
+- Ekin Dural: Team Member/Developer
+- Onurkan Alkan: Team Member/Developer
+- Seda Derdemez: Team Member/Developer
 
 ## Ürün İsmi
 
---Movie App--
+--AETOS--
 
-## Ürün Açıklaması
+## Oyun Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+- Bir uzay gemisinde bir dizi gizemli olay yaşanıyor acaba kahramanımız bu gizemli olayların önündeki sır perdesini aralayabilecek mi ?
 
-## Ürün Özellikleri
+## Oyun Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+- 3D oyun ve grafikler
+- Karakter yönetimi
+- Çarpışma işlemleri
+- Nesnelerin Konum işlemleri
+- NPC'ler
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
+- Uzay oyunu severler
+- Bulmaya çözmeyi sevenler
+- Dedektiflik sevenler
+- Macera severler
+- 9 - 65 yaş arası kullanıcılar
 
 ## Product Backlog URL
 
