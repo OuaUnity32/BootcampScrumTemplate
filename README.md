@@ -38,7 +38,7 @@ Takım 32
 
 ## Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
+[Miro Backlog Board](https://miro.com/app/board/uXjVO4HUvAk=/?share_link_id=981494046413)
 
 ---
 
