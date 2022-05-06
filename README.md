@@ -18,23 +18,21 @@ Takım 32
 
 ## Oyun Açıklaması
 
-- Bir uzay gemisinde bir dizi gizemli olay yaşanıyor acaba kahramanımız bu gizemli olayların önündeki sır perdesini aralayabilecek mi ?
+- Uzayda yaşam konusunda araştırma yapan bir uzay üssü gizemli bir şekilde kontrolden çıkar. Uzay üssünde çalışan kahramanımız buradan kurtularak ve sorunu bularak gizemli olayların arkasındaki sır perdesini aralayabilecek mi?
 
 ## Oyun Özellikleri
 
-- 3D oyun ve grafikler
-- Karakter yönetimi
-- Çarpışma işlemleri
-- Nesnelerin Konum işlemleri
-- NPC'ler
+- 3D Action-RPG PC oyunu
+- Third person view camera
+- Bulmaca çözme ve kaçış mekaniği
+- Kararlara göre değişen oyun akışı
 
 ## Hedef Kitle
 
-- Uzay oyunu severler
-- Bulmaya çözmeyi sevenler
-- Dedektiflik sevenler
-- Macera severler
-- 9 - 65 yaş arası kullanıcılar
+- Uzay temalı oyunları seven oyuncular
+- Bulmaya çözme ve escape room oyunlarını seven oyuncular
+- RPG oyunlarını seven oyuncular
+- 15 - 45 yaş arası oyuncular
 
 ## Product Backlog URL
 
