@@ -62,7 +62,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog11.png) 
-![Backlog 2]
+![Backlog 2](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog12.png) 
 ![Backlog 3]
 
 - **Ürün Durumu**: Ekran görüntüleri:
