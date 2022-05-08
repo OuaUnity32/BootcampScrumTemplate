@@ -30,7 +30,7 @@ Takım 32
 ## Hedef Kitle
 
 - Uzay temalı oyunları seven oyuncular
-- Bulmaya çözme ve escape room oyunlarını seven oyuncular
+- Bulmaca çözme ve escape room oyunlarını seven oyuncular
 - RPG oyunlarını seven oyuncular
 - 15 - 45 yaş arası oyuncular
 
@@ -52,7 +52,10 @@ Takım 32
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chat 1](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/daily_scrum1.png)
+- [Sprint 1 Daily Scrum Chat 2](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/daily_scrum2.png)
+- [Sprint 1 Daily Scrum Chat 3](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/daily_scrum3.png)
+- [Sprint 1 Daily Scrum Chat 4](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/daily_scrum4.png)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog11.png) 
@@ -60,16 +63,15 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![Backlog 3]
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1]
-  ![Screenshot 2]
+ İlk Sprint karar alma, araştırma, ortam kurumları ve kurgu geliştirmeye ayrıldı sonraki sprintlerde proje parçaları birleştirilecek 
 
 - **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
+Alınan kararlar: Oyun için konsept tasarım yapılmaya karar verilmiştir. Bu sırada diğer katılımcılar oyundaki dinamik işlemleri parçalar halinde yapacak bu yapılan parçaların birleşimleri 2. Sprintte yapılacak. 2. Sprintte Level tasarımlarının yapılmasına karar verilmiştir. Katılımcılar: Ekibin tamamı
 
 - **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
+  - Hikayede geliştirmeler yapılmıştır
+  - 4 Level yerine 5 level yapılma kararı alınmıştır
+  - Sinematiklerin kurgulanması kararlaştırılmıştır.
 
 -**Diğer Notlar**:
 - N/A
