@@ -52,7 +52,7 @@ Takım 32
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg olarak Readme'de tarafımızdan paylaşılmaktadır: 
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden yapılmasına karar verilmiştir, Her gün yazılı iletişim kurulmuştur ve haftada en az 1 Sesli veya görüntülü toplantı yapılmıştır. Daily Scrum toplantısı örneği jpeg olarak Readme'de tarafımızdan paylaşılmaktadır: 
 ![Sprint 1 Daily Scrum Chat 1](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/daily_scrum1.png)
 ![Sprint 1 Daily Scrum Chat 2](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/daily_scrum2.png)
 ![Sprint 1 Daily Scrum Chat 3](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/daily_scrum3.png)
