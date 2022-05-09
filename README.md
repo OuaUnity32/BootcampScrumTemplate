@@ -61,7 +61,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![Sprint 1 Daily Scrum Chat 6](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/daily_scrum6.png)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/sprint1-1.png) 
+![Backlog 1](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/sprint1-11.png) 
 ![Backlog 2](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/sprint1-2.png) 
 
 - **Ürün Durumu**: Ekran görüntüleri:
