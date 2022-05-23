@@ -92,7 +92,7 @@ Alınan kararlar: Oyun için konsept tasarım yapılmaya karar verilmiştir. Bu 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden yapılmasına karar verilmiştir, Her gün yazılı iletişim kurulmuştur ve haftada en az 1 Sesli veya görüntülü toplantı yapılmıştır. Daily Scrum toplantısı örneği jpeg olarak Readme'de tarafımızdan paylaşılmaktadır: 
-![Sprint 1 Daily Scrum Chat 1](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/sprint-2-daily-scrum-1.png)
+![Sprint 1 Daily Scrum Chat 1](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/sprint-2-daily-scrum-11.png)
 ![Sprint 1 Daily Scrum Chat 2](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/sprint-2-daily-scrum-2.jpeg)
 ![Sprint 1 Daily Scrum Chat 3](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/sprint-2-daily-scrum-3.png)
 ![Sprint 1 Daily Scrum Chat 4](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/sprint-2-daily-scrum-3.jpeg)
