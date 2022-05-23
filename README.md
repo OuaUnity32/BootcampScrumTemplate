@@ -81,6 +81,44 @@ Alınan kararlar: Oyun için konsept tasarım yapılmaya karar verilmiştir. Bu 
 ---
 
 # Sprint 2
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 150 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 490 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 150 ile başlaması gerektiğine karar verildi.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden yapılmasına karar verilmiştir, Her gün yazılı iletişim kurulmuştur ve haftada en az 1 Sesli veya görüntülü toplantı yapılmıştır. Daily Scrum toplantısı örneği jpeg olarak Readme'de tarafımızdan paylaşılmaktadır: 
+![Sprint 1 Daily Scrum Chat 1](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/sprint-2-daily-scrum-1.png)
+![Sprint 1 Daily Scrum Chat 2](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/sprint-2-daily-scrum-2.jpeg)
+![Sprint 1 Daily Scrum Chat 3](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/sprint-2-daily-scrum-3.png)
+![Sprint 1 Daily Scrum Chat 4](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/sprint-2-daily-scrum-3.jpeg)
+![Sprint 1 Daily Scrum Chat 5](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/sprint-2-daily-scrum-5.png)
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/sprint-2.png) 
+![Backlog 2](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/sprint-2-burndown.png) 
+
+- **Ürün Durumu**: Ekran görüntüleri:
+![Product 1](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/sprint-2-product.png) 
+![Product 2](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/sprint-2-product-2.png) 
+
+
+![Product UI 1](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/sprint-2-ui.png) 
+![Product UI 2](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/sprint-2-ui-2.png) 
+
+- **Sprint Review**: 
+Alınan kararlar: Oyun ortamı geliştirilmiş olup, karakter assetleri seçildi, oyundaki drone scripleri yazıldı ve oyun içi etkileşimler oluşturuldu, Sonraki sprintte tüm parçaların birleştirilip müzik, ses ve sinematik gibi işlerin yapılmasına karar verildi.
+
+Katılımcılar: Ekibin tamamı
+
+- **Sprint Retrospective:**
+  - Oyun içi karakter etkileşimleri geliştirildi
+  - Bulmaca tipleri tartışıldı
+  - Oyunun geçtiği mekan üzerine tartışmalar yapıldı
 
 
 ---
