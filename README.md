@@ -165,7 +165,7 @@ Katılımcılar: Ali Sincar, Onurkan Alkan, Seda Derdemez, Ekin Dural.
   - Oyundaki düşmanlar oyuna eklendi
   - Online Score Board yapıldı
   - Unity Analytics Eklendi
-  - Unity Ads eklendi
+  - Unity Ads eklendi (Oyun Desktop olduğu için Unity Desktop'da online reklamlar çalışmadığı için reklam gizlendi. Fakat mobil oyun için tüm gerekli kodlar ve ayarlamalar çalışıyor.)
 
 - **NOTLAR:**
  - Oyun Build edilip link 8 hazirana kadar eklenecektir.
