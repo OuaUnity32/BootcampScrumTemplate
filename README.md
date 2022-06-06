@@ -168,4 +168,9 @@ Katılımcılar: Ali Sincar, Onurkan Alkan, Seda Derdemez, Ekin Dural.
   - Unity Ads eklendi (Oyun Desktop olduğu için Unity Desktop'da online reklamlar çalışmadığı için reklam gizlendi. Fakat mobil oyun için tüm gerekli kodlar ve ayarlamalar çalışıyor.)
 
 - **NOTLAR:**
+
+
+# OYUN BOYUTU BÜYÜK OLDUĞU İÇİN BURAYA YÜKLEME YAPAMADIK BUNUN YERİNE AŞAĞIDAKİ GOOGLE DRIVE ADRESINDEN KAYNAK KODLARI İNDİREBİLİRSİNİZ.
+
+
  - Oyun Build edilip link 8 hazirana kadar eklenecektir.
