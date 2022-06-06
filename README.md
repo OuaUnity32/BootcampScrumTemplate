@@ -171,6 +171,6 @@ Katılımcılar: Ali Sincar, Onurkan Alkan, Seda Derdemez, Ekin Dural.
 
 
 # OYUN BOYUTU BÜYÜK OLDUĞU İÇİN BURAYA YÜKLEME YAPAMADIK BUNUN YERİNE AŞAĞIDAKİ GOOGLE DRIVE ADRESINDEN KAYNAK KODLARI İNDİREBİLİRSİNİZ.
-
+ - OYUN DOSYALARI: https://drive.google.com/file/d/1ABTTvl5NrBxKbVBAdf9AFF0AADnqtpfN/view?usp=sharing
 
  - Oyun Build edilip link 8 hazirana kadar eklenecektir.
