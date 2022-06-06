@@ -14,7 +14,7 @@ Takım 32
 
 ## Ürün İsmi
 
---AETOS--
+--INVASION--
 
 ## Oyun Açıklaması
 
@@ -23,15 +23,14 @@ Takım 32
 ## Oyun Özellikleri
 
 - 3D Action-RPG PC oyunu
-- Third person view camera
-- Bulmaca çözme ve kaçış mekaniği
-- Kararlara göre değişen oyun akışı
+- First person view camera
+- Savaş ve kaçış mekaniği
 
 ## Hedef Kitle
 
 - Uzay temalı oyunları seven oyuncular
-- Bulmaca çözme ve escape room oyunlarını seven oyuncular
-- RPG oyunlarını seven oyuncular
+- Savaş ve escape room oyunlarını seven oyuncular
+- RPG-FPS oyunlarını seven oyuncular
 - 15 - 45 yaş arası oyuncular
 
 ## Product Backlog URL
@@ -126,3 +125,47 @@ Katılımcılar: Ekibin tamamı
 # Sprint 3
 
 ---
+
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 150 Puan
+
+- **Puan tamamlama mantığı**: 3. Sprintin 150 ile başlaması gerektiğine karar verildi.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden yapılmasına karar verilmiştir, Her gün yazılı iletişim kurulmuştur ve haftada en az 1 Sesli veya görüntülü toplantı yapılmıştır. Daily Scrum toplantısı örneği jpeg olarak Readme'de tarafımızdan paylaşılmaktadır: 
+![Sprint 1 Daily Scrum Chat 1](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/sprint-3-daily-scrum-11.png)
+![Sprint 1 Daily Scrum Chat 2](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/sprint-3-daily-scrum-2.jpeg)
+![Sprint 1 Daily Scrum Chat 3](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/sprint-3-daily-scrum-3.png)
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/sprint-3.png) 
+![Backlog 2](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/sprint-3-burndown.png) 
+
+- **Ürün Durumu**: Ekran görüntüleri:
+![Product 1](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/sprint-3-product.png) 
+![Product 2](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/sprint-3-product-2.png) 
+
+
+![Product UI 1](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/sprint-3-ui.png) 
+![Product UI 2](https://raw.githubusercontent.com/OuaUnity32/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/sprint-3-ui-2.png) 
+
+- **Sprint Review**: 
+Alınan kararlar: Oyun FPS oyununa çevirildi ve istila edilmiş bir üssü kurtarmaya yönelik hale getirildi.
+
+Katılımcılar: Ali Sincar, Onurkan Alkan, Seda Derdemez, Ekin Dural.
+
+- **Sprint Retrospective:**
+  - Oyun arayüzleri geliştirildi
+  - Oyun Mekaniği düzenlendi
+  - Oyunun geçtiği sahneler oluşturuldu
+  - Oyundaki düşmanlar oyuna eklendi
+  - Online Score Board yapıldı
+  - Unity Analytics Eklendi
+  - Unity Ads eklendi
+
+- **NOTLAR:**
+ - Oyun Build edilip link 8 hazirana kadar eklenecektir.
