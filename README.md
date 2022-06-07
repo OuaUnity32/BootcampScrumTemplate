@@ -156,7 +156,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **Sprint Review**: 
 Alınan kararlar: Oyun FPS oyununa çevirildi ve istila edilmiş bir üssü kurtarmaya yönelik hale getirildi.
 
-Katılımcılar: Ali Sincar, Onurkan Alkan, Seda Derdemez, Ekin Dural.
+Katılımcılar: Ali Sincar, Onurkan Alkan, Seda Derdemez, Ekin Dural,Ekin Türkü Onatça.
 
 - **Sprint Retrospective:**
   - Oyun arayüzleri geliştirildi
